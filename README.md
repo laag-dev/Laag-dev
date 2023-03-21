@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lina Ascanio Gámez</h1>
-<h3 align="center">Una apasionada desarrolladora Full Stack de Venezuela a 🌎 India</h3>
+<h3 align="center">Una apasionada desarrolladora Full Stack de Venezuela a 🌎</h3>
 
 - 👩🏻‍💻 Yo Actualmente estoy trabajando en un desarrollo web para un psicólogo. **Psicóloga Paola Flórez**
 
