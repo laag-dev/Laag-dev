@@ -2,7 +2,7 @@
 <h3 align="center">Una apasionada desarrolladora Full Stack de Venezuela para el 🌎 </h3>
 <img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif")
 
-- 👩🏻‍💻 Actualmente estoy trabajando en un desarrollo web para una psicóloga. **Psicóloga Paola Flórez**
+- 👩🏻‍💻 Actualmente estoy trabajando en un desarrollo web para una psicóloga.
 
 - 🌱 Actualmente estoy aprendiendo **JAVA, ReactJS, MySQL**
 
