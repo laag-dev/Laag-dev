@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lina Ascanio Gámez</h1>
-<h3 align="center">Ingeniero en Telecomunicaciones y apasionada desarrolladora Full Stack 👩🏻‍💻 </h3>
+<h3 align="center">Primero resuelve el problema. Entonces, escribe el código 👩🏻‍💻 </h3>
 <img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif")
 
 - 👩🏻‍💻 Actualmente estoy trabajando en un desarrollo web para una psicóloga.
