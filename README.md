@@ -8,7 +8,7 @@
 
 - 📫 Cómo contactarme **laagdev@gmail.com**
 
-- 📄 Conoce mis experiencias [https://drive .google.com/file/d/1b5vDiS-Q1QxzjRiY5dM1q1TZwCtjIyY1/view?usp=share_link](https://drive.google.com/file/d/1b5vDiS-Q1QxzjRiY5dM1q1TZwCtjIyY1/view?usp=share_link)
+- 📄 Conoce mis experiencias [[https://drive .google.com/file/d/1b5vDiS-Q1QxzjRiY5dM1q1TZwCtjIyY1/view?usp=share_link](https://drive.google.com/file/d/1b5vDiS-Q1QxzjRiY5dM1q1TZwCtjIyY1/view?usp=share_link)](https://drive.google.com/file/d/1Q75QLBEC9EPOnRHmXGWDlws4LhbGKyjE/view?usp=drive_link)
 
 - ⚡ Dato curioso ** Solía ​​pensar que la programación era demasiado complicada y aburrida, pero todo cambió cuando descubrí que podía usar la programación para automatizar tareas repetitivas y simplificar mi trabajo diario. A partir de ahí, me enamoro cada día de la programación y paso parte de mi tiempo libre aprendiendo nuevos lenguajes de programación y creando proyectos. Además, he descubierto que la programación puede ser una herramienta muy poderosa para resolver problemas y mejorar la eficiencia en cualquier área de la vida.**
 
