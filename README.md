@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 Actualmente estoy trabajando en un desarrollo web para una psicóloga.
 
-- 🌱 Actualmente estoy aprendiendo **JAVA, ReactJS, MySQL**
+- 🌱 Actualmente estoy aprendiendo ** ReactJS, Node.js, MongoDB**
 
 - 📫 Cómo contactarme **laagdev@gmail.com**
 
