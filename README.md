@@ -2,13 +2,11 @@
 <h3 align="center">Primero resuelve el problema. Entonces, escribe el código 👩🏻‍💻 </h3>
 <img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif")
 
-- 👩🏻‍💻 Actualmente estoy trabajando en un desarrollo web para una psicóloga y un ecommerce.
+- 👩🏻‍💻 Actualmente estoy trabajando en un desarrollo web para una psicóloga y un ecommerce Tienda Code.
 
-- 🌱 Actualmente estoy aprendiendo ** ReactJS, Node.js, MongoDB**
+- 🌱 Actualmente estoy aprendiendo ** Node.js, MongoDB**
 
-- 📫 Cómo contactarme **laagdev@gmail.com**
-
-- 📄 Conoce mis experiencias [https://drive.google.com/file/d/1Q75QLBEC9EPOnRHmXGWDlws4LhbGKyjE/view?usp=drive_link]
+- 📫 Cómo contactarme **laag.08@gmail.com**
 
 - ⚡ Dato curioso ** Solía ​​pensar que la programación era demasiado complicada y aburrida, pero todo cambió cuando descubrí que podía usar la programación para automatizar tareas repetitivas y simplificar mi trabajo diario. A partir de ahí, me enamoro cada día de la programación y paso parte de mi tiempo libre aprendiendo nuevos lenguajes de programación y creando proyectos. Además, he descubierto que la programación puede ser una herramienta muy poderosa para resolver problemas y mejorar la eficiencia en cualquier área de la vida.**
 
