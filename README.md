@@ -2,7 +2,7 @@
 <h3 align="center">Primero resuelve el problema. Entonces, escribe el código 👩🏻‍💻 </h3>
 <img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif")
 
-- 👩🏻‍💻 Actualmente estoy trabajando en un desarrollo web para una psicóloga y un ecommerce Tienda Code.
+- 👩🏻‍💻 Actualmente estoy brindo mis conocimientos de forma freelance.
 
 - 🌱 Actualmente estoy aprendiendo ** Node.js, MongoDB**
 
