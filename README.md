@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 Actualmente estoy brindo mis conocimientos de forma freelance.
 
-- 🌱 Actualmente estoy aprendiendo ** Node.js, MongoDB**
+- 🌱 Actualmente estoy aprendiendo Ingles, AWS y Spring 
 
 - 📫 Cómo contactarme **laag.08@gmail.com**
 
